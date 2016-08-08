@@ -1,0 +1,17 @@
+_repo: Buena-Nueva-de-acuerdo-a-Mateo--Traducci-n-de-dominio-p-blico-abierta-a-mejoras_12500
+_version: 0.0.1
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12500'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Matthew'
+- GITenberg
+title: 'Buena Nueva de acuerdo a Mateo: Traducción de dominio público abierta a mejoras'
+url: http://www.gutenberg.org/ebooks/12500
